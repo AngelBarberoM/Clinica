@@ -1,4 +1,4 @@
-#Borrar Paciente
+# Borrar Paciente
 
 **Identificación:** 11
 
