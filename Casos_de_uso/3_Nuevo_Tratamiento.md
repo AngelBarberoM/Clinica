@@ -12,10 +12,10 @@
 
 **Flujo principal:**
 
-1. El administrador de la clinica quiere asignarle un tratamiento a un paciente.
-2. El administrador de la clinica selecciona al paciente correspondiente.
-3. El administrador de la clinica introduce los datos del tratamiento asignado.
-4. El administrador de la clinica muestra por pantalla al paciente actualizado y muestra un mensaje si dicha actualización se realizó correctamente.
+1. El administrador de la clínica quiere asignarle un tratamiento a un paciente.
+2. El administrador de la clínica selecciona al paciente correspondiente.
+3. El administrador de la clínica introduce los datos del tratamiento asignado.
+4. El administrador de la clínica muestra por pantalla al paciente actualizado y muestra un mensaje si dicha actualización se realizó correctamente.
 
 
 **Condiciones inesperadas:**
