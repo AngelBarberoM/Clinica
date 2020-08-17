@@ -7,7 +7,7 @@
 
 **Flujo principal**:
 
-1. El administrador de la clinica desea ver las citas próximas.
+1. El administrador de la clínica desea ver las citas próximas.
 2. El sistema muestra una lista con todas las citas ordenadas por fecha y hora.
 
 
