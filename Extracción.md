@@ -33,7 +33,7 @@
  * Cantidad
  * Frecuencia
  
-### Requisitos
+### Requisitos:
 
 **Practicos:**
 1. Nuevo paciente
