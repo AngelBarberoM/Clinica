@@ -1,4 +1,4 @@
-# Mostrar Lista de PAcientes
+# Mostrar Lista de Pacientes
 
 **Identificación:** 6 
 
