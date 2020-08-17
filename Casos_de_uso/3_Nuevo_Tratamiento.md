@@ -7,9 +7,11 @@
 **Principal:** Clínica.
 
 **Condición para desarrollar esta tarea:**
+
 * Seleccionar previamente a un paciente.
 
 **Flujo principal:**
+
 1. El administrador de la clinica quiere asignarle un tratamiento a un paciente.
 2. El administrador de la clinica selecciona al paciente correspondiente.
 3. El administrador de la clinica introduce los datos del tratamiento asignado.
@@ -17,4 +19,5 @@
 
 
 **Condiciones inesperadas:**
+
 4.a. Si los datos se introdujeron mal, el sistema no actualiza al paciente e informa de dicho fallo por pantalla.
