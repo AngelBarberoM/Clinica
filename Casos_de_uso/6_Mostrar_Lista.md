@@ -7,5 +7,5 @@
 
 **Flujo principal:**
 
-1. El administrador de la clinica quiere ver la lista de todos los pacientes.
+1. El administrador de la clínica quiere ver la lista de todos los pacientes.
 2. El sistema muestra por pantalla los pacientes que estan dados de alta.
