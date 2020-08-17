@@ -11,10 +11,10 @@
 
 **Flujo principal:**
 
-1. El administrador de la clinica quiere asignarle historial a un paciente.
-2. El administrador de la clinica selecciona al paciente.
-3. El administrador de la clinica introduce los datos del historial.
-4. El administrador de la clinica muestra por pantalla al paciente actualizado y muestra un mensaje si dicha actualización se realizó correctamente.
+1. El administrador de la clínica quiere asignarle historial a un paciente.
+2. El administrador de la clínica selecciona al paciente.
+3. El administrador de la clínica introduce los datos del historial.
+4. El administrador de la clínica muestra por pantalla al paciente actualizado y muestra un mensaje si dicha actualización se realizó correctamente.
 
 **Condiciones inesperadas:**
 
