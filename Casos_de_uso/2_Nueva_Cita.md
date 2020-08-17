@@ -12,10 +12,10 @@
 
 **Flujo principal**:
 
-1. El administrador de la clinica concerta una cita con un paciente.
-2. El administrador de la clinica selecciona el paciente correspondiente.
-3. El administrador de la clinica elige la opcion de concertar cita.
-4. El administrador de la clinica introduce los datos de la cita.
+1. El administrador de la clínica concerta una cita con un paciente.
+2. El administrador de la clínica selecciona el paciente correspondiente.
+3. El administrador de la clínica elige la opcion de concertar cita.
+4. El administrador de la clínica introduce los datos de la cita.
 5. El sistema añade la cita al paciente.
 
 **Condiciones inesperadas**:
