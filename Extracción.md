@@ -1,57 +1,60 @@
-# Extracción de requisitos# Extracción de requisitos
+# Extracción
 
 ### Partes interesadas:
 * Clínica Médica
-* Desarrolladores del Grupo 30
+* Desarrolladores del Grupo 35
 
-### Datos que se deben almacenar:
+### Datos:
 > **Pacientes:** 
- * Nombre y Apellidos
+ * Nombre 
+ * Apellidos
  * Teléfono
  * Código Postal
- * Fecha Nacimiento
- * Procedencia (Privado/Empresa o Seguro)
- * Citas
- * Histoial
+ * Dirección
+ * Fecha de Nacimiento
+ * Citas 
  * Tratamiento
+ * Histoial Médico 
  
 > **Citas:**
- *  Día
- *  Hora
- *  Duración
+ * Día
+ * Mes
+ * Hora
+ * Tiempo de la cita
 
->**Historial:**
- *  Fecha de consulta
- *  Síntoma
+>**Historial Médico:**
+ * Fecha de consulta
+ * Síntomas 
 
 > **Tratamiento:**
- *  Medicamento
- *  Dosis
- *  Frecuencia
- *  Comienzo
- *  Fin
+ * Comienzo
+ * Fin
+ * Medicamento
+ * Cantidad
+ * Frecuencia
+ 
 ### Requisitos
 
-**Funcionales:**
-01. Añadir nuevo paciente
-02. Añadir nueva cita
-03. Añadir nuevo tratamiento a paciente
-04. Añadir nueva entrada a historial de paciente
-05. Mostrar citas
-06. Mostrar lista con pacientes
-07. Mostrar toda la información del paciente seleccionado
-08. Modificar paciente
-09. Modificar tratamiento
-10. Búsqueda por nombre (opcional: busqueda por otros campos)
+**Practicos:**
+1. Nuevo paciente
+2. Nueva cita
+3. Nuevo tratamiento
+4. Nueva entrada al historial (paciente)
+5. Mostrar citas
+6. Mostrar lista pacientes
+7. Mostrar información (paciente)
+8. Modificar paciente
+9. Modificar tratamiento
+10. Búsqueda por nombre
 11. Borrar paciente
 12. Mover cita
 13. Cancelar cita
 14. Consultar citas de hoy
-15. Consultar citas de un paciente
-16. Consultar historial médico de un paciente
-17. Consultar tratamientos de un paciente
+15. Consultar citas (paciente)
+16. Consultar historial médico (paciente)
+17. Consultar tratamientos (paciente)
 
-**No Funcionales:**
+**No Practicos:**
 1. Sistema Operativo Linux
 2. Los datos del historial no se pueden borrar
-3. Los datos del tratamiento tampoco se pueden borrar una vez finalizado
+3. Los datos del tratamiento no se pueden borrar
