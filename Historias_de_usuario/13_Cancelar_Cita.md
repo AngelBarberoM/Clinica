@@ -4,7 +4,7 @@
 
 #### Descripción
 
-Como administrador quiero eliminar una cita asociada a un paciente para cancelarla
+Como administrador de la clínica quiero eliminar una cita asociada a un paciente para cancelarla
 
 #### Condiciones
 
