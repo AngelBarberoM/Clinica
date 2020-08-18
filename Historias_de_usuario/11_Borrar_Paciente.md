@@ -6,7 +6,7 @@
 
 Como administrador de la clínica quiero borrar un paciente para eliminar cualquier paciente que desee la clinica
 
-#### Validación
+#### Condiciones
 
 * Poder localizar cualquier paciente.
 * Eliminar el paciente seleccionado.
