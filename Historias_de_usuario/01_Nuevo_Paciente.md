@@ -1,6 +1,6 @@
 **Identificación:** 1
 
-**Nombre**: Añadir nuevo paciente
+**Nombre**: Nuevo paciente
 
 #### Descripción
 
