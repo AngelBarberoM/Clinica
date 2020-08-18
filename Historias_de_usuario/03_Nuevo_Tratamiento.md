@@ -2,11 +2,11 @@
 
 **Nombre:** Nuevo tratamiento
 
-### Descripción
+#### Descripción
 
 Como administrador de la clínica quiero añadir un tratamiento medico al paciente que he examinado.
 
-### Condiciones
+#### Condiciones
 
 * Poder añadir un tratamiento a cualquier paciente.
 * Mostrar un mensaje de error si los datos del tratamiento se introdujeron incorrectamente
