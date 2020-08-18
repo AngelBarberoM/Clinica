@@ -6,7 +6,7 @@
 
 Como administrador de la clínica quiero buscar pacientes por nombre para poder seleccionar a un paciente específico y realizar operaciones sobre él
 
-#### Validación
+#### Condiciones
 
 * Poder localizar cualquier paciente
 * Mostrar la información básica de los pacientes encontrados (nombre, teléfono y próxima cita concertada)
