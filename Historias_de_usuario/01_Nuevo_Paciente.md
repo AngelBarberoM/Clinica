@@ -8,5 +8,5 @@ Como administrador de la clínica quiero añadir un paciente para poder consulta
 
 #### Condiciones
 
-* Se debe mostrar un mensaje de error si los datos sobre el paciente se introdujeron en formato incorrecto
-* Se debe mostrar un mensaje de confirmación si se ha añadido correctamente al paciente
+* Mostrar un mensaje de error si los datos sobre el paciente se introdujeron en formato incorrecto
+* Mostrar un mensaje de confirmación si se ha añadido correctamente al paciente
