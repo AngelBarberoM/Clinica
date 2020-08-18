@@ -2,10 +2,10 @@
 
 **Nombre**: Mostrar lista de pacientes
 
-####Descripción:
+#### Descripción:
 
 Como administrador quiero mostrar por pantalla todos los pacientes de la clínica y sus datos médicos.
 
-####Validación:
+#### Validación:
 
 * Poder mostrar a todos los pacientes y sus datos correctamente.
