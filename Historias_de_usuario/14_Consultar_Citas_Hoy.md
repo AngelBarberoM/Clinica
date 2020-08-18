@@ -4,7 +4,7 @@
 
 #### Descripción
 
-Como administradorquiero Consultar las citas de hoypara saber todas las citas que tiene hoy
+Como administrador de la clínica quiero consultar las citas de hoy para saber todas las citas que tiene hoy
 
 #### Condiciones
 
