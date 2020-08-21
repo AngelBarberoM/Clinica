@@ -3,7 +3,7 @@
 * Grupo 35
 
 ### Datos:
- ####  Pacientes:
+ #### Pacientes:
  * Nombre 
  * Apellidos
  * Teléfono
@@ -14,17 +14,17 @@
  * Tratamiento
  * Histoial Médico 
  
- ####  Citas:
+ #### Citas:
  * Día
  * Mes
  * Hora
  * Tiempo de la cita
 
- ####  Historial Médico:
+ #### Historial Médico:
  * Fecha de consulta
  * Síntomas 
 
- ####  Tratamiento:
+ #### Tratamiento:
  * Comienzo
  * Fin
  * Medicamento
@@ -33,7 +33,7 @@
  
 ### Partes Destacadas del Programa para la Clínica:
 
-####  Primer Plano:
+#### Primer Plano:
 1. Nuevo paciente
 2. Nueva cita
 3. Nuevo tratamiento
@@ -52,6 +52,6 @@
 16. Consultar historial médico (paciente)
 17. Consultar tratamientos (paciente)
 
-####  Segundo Plano:
+#### Segundo Plano:
 Sistema Operativo Linux
 Los datos del historial y el tratamiento no se pueden borrar
