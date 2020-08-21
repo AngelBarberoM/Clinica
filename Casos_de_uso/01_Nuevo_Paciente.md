@@ -4,10 +4,6 @@
 
 **Descripción:** Se introduce nombre y apellidos, teléfono, código postal, dirección, fecha de nacimiento.
 
-**Condición para desarrollar esta tarea:**
-
-* Ninguna
-
 **Tareas a seguir:**
 
 * El administrador de la clínica desea introducir un nuevo paciente.
