@@ -4,8 +4,6 @@
 
 **Descripción:** Se introduce nombre y apellidos, teléfono, código postal, dirección, fecha de nacimiento.
 
-**Principal:** Clínica
-
 **Condición para desarrollar esta tarea:**
 
 * Ninguna
