@@ -2,7 +2,7 @@
 * Ángel Barbero Mellado, Jose Miguel Gómez Castro
 * Grupo 35
 
-### Datos:
+### Datos Partes Interesantes:
  #### Pacientes:
  * Nombre 
  * Apellidos
