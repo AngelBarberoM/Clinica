@@ -2,7 +2,7 @@
 * Ángel Barbero Mellado, Jose Miguel Gómez Castro
 * Grupo 35
 
-### Datos Partes Interesantes:
+## Datos Partes Interesantes:
  #### Pacientes:
  * Nombre 
  * Apellidos
@@ -31,7 +31,7 @@
  * Cantidad
  * Frecuencia
  
-### Requisitos:
+## Requisitos:
 
 #### Funcionales:
 1. Nuevo paciente
