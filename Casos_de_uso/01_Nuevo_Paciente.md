@@ -18,4 +18,4 @@
 
 **Condiciones inesperadas:**
 
-3.a Si ha habido un fallo al introducir un nuevo paciente, se muestra el mensaje de error correspondiente.
+* Si ha habido un fallo al introducir un nuevo paciente, se muestra el mensaje de error correspondiente.
