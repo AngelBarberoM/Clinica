@@ -2,7 +2,7 @@
 * Grupo 35
 
 ### Datos:
- ####Pacientes:
+ #### Pacientes:
  * Nombre 
  * Apellidos
  * Teléfono
@@ -13,13 +13,13 @@
  * Tratamiento
  * Histoial Médico 
  
- ####Citas:
+ #### Citas:
  * Día
  * Mes
  * Hora
  * Tiempo de la cita
 
- #### *Historial Médico:
+ #### Historial Médico:
  * Fecha de consulta
  * Síntomas 
 
