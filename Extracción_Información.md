@@ -1,11 +1,8 @@
-# Extracción
-
-### Partes interesadas:
-* Clínica Médica
-* Desarrolladores del Grupo 35
+# Clínica Médica
+* Grupo 35
 
 ### Datos:
-> **Pacientes:** 
+ ####Pacientes:
  * Nombre 
  * Apellidos
  * Teléfono
@@ -16,26 +13,26 @@
  * Tratamiento
  * Histoial Médico 
  
-> **Citas:**
+ ####Citas:
  * Día
  * Mes
  * Hora
  * Tiempo de la cita
 
->**Historial Médico:**
+ #### *Historial Médico:
  * Fecha de consulta
  * Síntomas 
 
-> **Tratamiento:**
+ #### Tratamiento:
  * Comienzo
  * Fin
  * Medicamento
  * Cantidad
  * Frecuencia
  
-### Requisitos:
+### Partes Destacadas del Programa para la Clínica:
 
-**Practicos:**
+#### Primer Plano:
 1. Nuevo paciente
 2. Nueva cita
 3. Nuevo tratamiento
@@ -54,7 +51,6 @@
 16. Consultar historial médico (paciente)
 17. Consultar tratamientos (paciente)
 
-**No Practicos:**
-1. Sistema Operativo Linux
-2. Los datos del historial no se pueden borrar
-3. Los datos del tratamiento no se pueden borrar
+#### Segundo Plano:
+Sistema Operativo Linux
+Los datos del historial y el tratamiento no se pueden borrar
