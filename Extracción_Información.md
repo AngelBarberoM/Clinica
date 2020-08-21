@@ -31,9 +31,9 @@
  * Cantidad
  * Frecuencia
  
-### Partes Destacadas del Programa para la Clínica:
+### Requisitos:
 
-#### Primer Plano:
+#### Funcionales:
 1. Nuevo paciente
 2. Nueva cita
 3. Nuevo tratamiento
@@ -52,6 +52,7 @@
 16. Consultar historial médico (paciente)
 17. Consultar tratamientos (paciente)
 
-#### Segundo Plano:
-Sistema Operativo Linux
-Los datos del historial y el tratamiento no se pueden borrar
+#### No Funcionales:
+* Sistema Operativo Linux
+* Almacenamiento 2T
+* Los datos del historial y el tratamiento no se pueden borrar
