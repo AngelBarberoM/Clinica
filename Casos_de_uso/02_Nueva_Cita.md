@@ -8,7 +8,7 @@
 
 * Seleccionar previamente a un paciente.
 
-**Flujo principal**:
+**Tareas a seguir:**:
 
 * El administrador de la clínica concerta una cita con un paciente.
 * El administrador de la clínica selecciona el paciente correspondiente.
