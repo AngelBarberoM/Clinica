@@ -2,7 +2,7 @@
 
 **Identificación:** 1
 
-**Descripción:** Se introduce nombre y apellidos,teléfono,código postal, dirección,fecha de nacimiento.
+**Descripción:** Se introduce nombre y apellidos, teléfono, código postal, dirección, fecha de nacimiento.
 
 **Principal:** Clínica
 
@@ -12,9 +12,9 @@
 
 **Flujo principal:**
 
-1. El administrador de la clínica desea introducir un nuevo paciente.
-2. El administrador de la clínica introduce todos los datos del nuevo paciente.
-3. El sistema indica si se ha podido añadir el paciente o no se ha podido.
+* El administrador de la clínica desea introducir un nuevo paciente.
+* El administrador de la clínica introduce todos los datos del nuevo paciente.
+* El sistema indica si se ha podido añadir el paciente o no se ha podido.
 
 **Condiciones inesperadas:**
 
