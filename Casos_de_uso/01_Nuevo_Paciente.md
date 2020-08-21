@@ -8,7 +8,7 @@
 
 * Ninguna
 
-**Flujo principal:**
+**Tareas a seguir:**
 
 * El administrador de la clínica desea introducir un nuevo paciente.
 * El administrador de la clínica introduce todos los datos del nuevo paciente.
