@@ -1,5 +1,5 @@
 # Clínica Médica
-* Ángel Barbero Mellado, José Miguel Gómez Castro
+* Ángel Barbero Mellado, Jose Miguel Gómez Castro
 * Grupo 35
 
 ## Datos Partes Interesantes:
